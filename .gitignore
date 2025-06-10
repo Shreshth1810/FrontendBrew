@@ -1,0 +1,14 @@
+# Node modules (should never be committed)
+node_modules/
+
+# Build output (auto-generated)
+build/
+
+# Local environment variables
+.env
+
+# Mac system file (if you're on Windows, still safe to leave)
+.DS_Store
+
+# VS Code settings (optional, if you don't want to share them)
+.vscode/

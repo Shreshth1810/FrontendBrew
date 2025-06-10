@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brewmac-inventory-frontend/static/css/main.66e2c181.css",
+    "main.js": "/brewmac-inventory-frontend/static/js/main.c35de31f.js",
+    "static/js/453.1f4d7a21.chunk.js": "/brewmac-inventory-frontend/static/js/453.1f4d7a21.chunk.js",
+    "index.html": "/brewmac-inventory-frontend/index.html",
+    "main.66e2c181.css.map": "/brewmac-inventory-frontend/static/css/main.66e2c181.css.map",
+    "main.c35de31f.js.map": "/brewmac-inventory-frontend/static/js/main.c35de31f.js.map",
+    "453.1f4d7a21.chunk.js.map": "/brewmac-inventory-frontend/static/js/453.1f4d7a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66e2c181.css",
+    "static/js/main.c35de31f.js"
+  ]
+}
